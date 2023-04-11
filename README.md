@@ -4,7 +4,7 @@
 
 # 게임 맵
 <p>
-    ![image](https://user-images.githubusercontent.com/75960352/231046396-9b10fc15-81e9-4748-8254-7694f5c9840b.png)|  ![image](https://user-images.githubusercontent.com/75960352/231045897-3a9272a1-3e52-45ff-b7cd-0f7200eb9ffd.png)
+    ![image1](https://user-images.githubusercontent.com/75960352/231046396-9b10fc15-81e9-4748-8254-7694f5c9840b.png)|  ![image2](https://user-images.githubusercontent.com/75960352/231045897-3a9272a1-3e52-45ff-b7cd-0f7200eb9ffd.png)
 --- | --- | 
 </p>
     ![image](https://user-images.githubusercontent.com/75960352/231046396-9b10fc15-81e9-4748-8254-7694f5c9840b.png) |
